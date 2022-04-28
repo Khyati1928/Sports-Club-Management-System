@@ -23,3 +23,15 @@ This is a java project that I made for my object-oriented design course in colle
 - Activity diagram 3
 
 ![alt uml activity diagram 3](uml/activity_diagram_3.jpg)
+
+- Activity diagram 4
+
+![alt uml activity diagram 4](uml/activity_diagram_4.png)
+
+- State diagram 1
+
+![alt uml state diagram 1](uml/state_diagram_1.png)
+
+- State diagram 3
+
+![alt uml state diagram 2](uml/state_diagram_2.png)
